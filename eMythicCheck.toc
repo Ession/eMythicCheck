@@ -1,0 +1,7 @@
+## Interface: 70000
+## Version: 7.0.1
+## Title: eMythicCheck
+## Notes: Shows what mythic instances are already completed.
+## Author: Ession
+
+eMythicCheck.lua
